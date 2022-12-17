@@ -12,7 +12,6 @@ int main (void){
     }else{
         printf("The character you entered is not a number, please try again.");
     }
-    ;
     
     return 0;
 }
